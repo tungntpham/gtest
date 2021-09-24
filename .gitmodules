@@ -1,0 +1,3 @@
+[submodule "gtestdep"]
+	path = gtestdep
+	url = https://github.com/tungntpham/gtestdep.git
